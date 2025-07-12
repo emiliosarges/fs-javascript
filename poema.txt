@@ -1,0 +1,36 @@
+**Poema: "O Encanto do JavaScript"**
+
+No reino vasto da Web encantada,
+Surge uma língua bem articulada.
+JavaScript é seu belo nome,
+E com ele o navegador consome.
+
+Com `let` e `const` a criar,
+Variáveis vêm a se declarar.
+Funções dançam, leves no ar,
+Promessas nas linhas a brilhar.
+
+Eventualmente, algo acontece,
+Um clique, um toque, tudo estremece.
+Listeners ouvem com atenção,
+Movem o DOM em transformação.
+
+JSON, objetos, arrays e loops,
+Entre `map`, `filter`, e `for` em grupos.
+A lógica pulsa no `if` condicional,
+Cada `else` é um novo sinal.
+
+Assíncrono como um sonho voador,
+`async` e `await` mostram seu valor.
+Enquanto o tempo no `setTimeout` passa,
+O código roda e nunca fracassa.
+
+Do `Node` ao `React`, tão versátil é,
+Na tela ou no servidor, firma o seu pé.
+JavaScript, arte em linguagem escrita,
+Na alma do front, a essência é bendita.
+
+E mesmo com erros — o temido bug —
+Persistimos firmes, sem nunca dar plug.
+Pois quem ama o código dessa maneira,
+Sabe: JavaScript é poesia verdadeira.
