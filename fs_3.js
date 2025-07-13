@@ -1,6 +1,6 @@
 const fs = require('fs')
 
-//Escrever conteúdo => fs.readFile("nome_do_arquivo.txt", "conteúdo do arquivo", fn)
+//Criar um arquivo e seu conteúdo => fs.readFile("nome_do_arquivo_novo.txt", "conteúdo do arquivo novo", fn)
 
 fs.writeFile("boasvindas.txt", "Seja bem vindo ao mundo do Node.js", erro => {
     if (erro) {
@@ -8,6 +8,6 @@ fs.writeFile("boasvindas.txt", "Seja bem vindo ao mundo do Node.js", erro => {
         return;
     }
 
-    console.log('Arquivo criado com sucesso!');
+    console.log('Arquivo novo criado com sucesso!');
     
 })
