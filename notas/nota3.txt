@@ -1,0 +1,20 @@
+Boletim Escolar - 2º Bimestre
+Aluno: Pedro Martins
+Turma: 8º Ano A
+
+--------------------------------------
+Disciplina           Nota   Situação
+--------------------------------------
+Português            4.2    Recuperação
+Matemática           3.5    Recuperação
+História             6.0    Aprovado
+Geografia            5.0    Recuperação
+Ciências             6.5    Aprovado
+Educação Física      7.0    Aprovado
+Artes                6.0    Aprovado
+Inglês               4.0    Recuperação
+--------------------------------------
+
+Observações:
+- Reforço escolar recomendado em Português, Matemática, Geografia e Inglês.
+- Faltas acumuladas: 12

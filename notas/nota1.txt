@@ -1,0 +1,20 @@
+Boletim Escolar - 2º Bimestre
+Aluno: João Silva
+Turma: 8º Ano A
+
+--------------------------------------
+Disciplina           Nota   Situação
+--------------------------------------
+Português            7.5    Aprovado
+Matemática           6.2    Aprovado
+História             8.0    Aprovado
+Geografia            5.5    Recuperação
+Ciências             4.8    Recuperação
+Educação Física      9.0    Aprovado
+Artes                6.0    Aprovado
+Inglês               7.0    Aprovado
+--------------------------------------
+
+Observações:
+- O aluno precisa melhorar o desempenho em Ciências e Geografia.
+- Faltas acumuladas: 5

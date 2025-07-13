@@ -1,0 +1,20 @@
+Boletim Escolar - 2º Bimestre
+Aluno: Ana Beatriz
+Turma: 8º Ano A
+
+--------------------------------------
+Disciplina           Nota   Situação
+--------------------------------------
+Português            9.0    Aprovado
+Matemática           9.2    Aprovado
+História             8.5    Aprovado
+Geografia            8.0    Aprovado
+Ciências             9.5    Aprovado
+Educação Física      10.0   Aprovado
+Artes                9.8    Aprovado
+Inglês               8.5    Aprovado
+--------------------------------------
+
+Observações:
+- Excelente desempenho geral.
+- Faltas acumuladas: 0
