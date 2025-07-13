@@ -1,0 +1,17 @@
+Introdução ao Vue.js
+
+Vue.js é um framework JavaScript progressivo utilizado para construir interfaces de usuário interativas. Criado por Evan You, o Vue se destaca por sua simplicidade, leveza e facilidade de integração com projetos existentes.
+
+Uma das grandes vantagens do Vue é sua curva de aprendizado suave. Ele permite que desenvolvedores iniciantes com conhecimento básico em HTML, CSS e JavaScript comecem rapidamente a criar aplicações reativas. Ao mesmo tempo, oferece recursos avançados como roteamento, gerenciamento de estado (com Vuex ou Pinia) e renderização do lado do servidor para projetos mais complexos.
+
+O Vue adota uma abordagem baseada em componentes. Isso significa que você pode dividir a interface em pequenas partes reutilizáveis e organizadas. Cada componente Vue tem sua estrutura clara, geralmente combinando HTML (template), JavaScript (comportamento) e CSS (estilo) em um único arquivo `.vue`.
+
+Além disso, a comunidade Vue é muito ativa e existem diversas bibliotecas e ferramentas no ecossistema, como:
+- Vue Router (para navegação entre páginas)
+- Pinia (gerenciador de estado moderno)
+- Vue CLI ou Vite (para criação e gerenciamento de projetos)
+
+Por ser flexível e adaptável, Vue.js é utilizado tanto por iniciantes quanto por empresas que desejam criar aplicações web modernas, rápidas e fáceis de manter.
+
+Se você quer aprender a criar interfaces bonitas, reativas e organizadas, o Vue.js é uma excelente escolha!
+
